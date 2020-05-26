@@ -1,0 +1,1 @@
+all jquery file availabel
